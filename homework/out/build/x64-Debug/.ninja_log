@@ -1,0 +1,6 @@
+# ninja log v6
+10	554	8168701934350324	CMakeFiles/test.dir/weird_main.cpp.obj	cf4197a2150671c
+556	872	8168701939797813	test.exe	84d4da2f7058273e
+24	580	8168704418882461	CMakeFiles/test.dir/a.cpp.obj	8e0d526311f6c4c
+17	584	8168704418724029	CMakeFiles/test.dir/weird_main.cpp.obj	cf4197a2150671c
+585	785	8168704424428166	test.exe	42692fbc6fb1ceaa
